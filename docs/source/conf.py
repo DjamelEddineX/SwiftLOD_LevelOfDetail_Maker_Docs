@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = "Modular Suburban House Creator"
+project = "SwiftLOD - Level Of Detail Creator"
 copyright = "2025, FANNΞC"
 author = "FANNΞC"
 
-release = "1.0.0"
-version = "1.0.0"
+release = "1.0"
+version = "1.0"
 
 # -- General configuration
 
