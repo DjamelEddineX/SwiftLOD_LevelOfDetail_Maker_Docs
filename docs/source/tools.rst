@@ -5,8 +5,8 @@ Process Selected Objects (Toggle)
 *******************************
 
 * **What it does**:
- **If enabled**: Generates LODs for all selected objects in the scene
- **If disabled**: Processes only the active (last selected) object
+ * **If enabled**: Generates LODs for all selected objects in the scene
+ * **If disabled**: Processes only the active (last selected) object
 * **When to use**:
   - ✔ When batch processing multiple assets
   - ✔ When focusing on a single important model
