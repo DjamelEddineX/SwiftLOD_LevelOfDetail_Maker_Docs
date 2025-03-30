@@ -1,8 +1,6 @@
 Tools
 ##########
 
-|
-
 Process Selected Objects (Toggle)
 *******************************
 
