@@ -4,18 +4,15 @@ Tools
 | These tools help position and modify house parts after they are placed in the scene.
 |
 
-Move Part
+Process Selected Objects (Toggle)
 ******
 
-* **Purpose**: Adjust the position of selected parts in increments of 1 meter.
-* **Controls**:
- :**Left (←)**: Moves part left (negative X-axis)
- :**Right (→)**: Moves part right (positive X-axis)
- :**Front (↑)**: Moves part forward (negative Y-axis)
- :**Back (↓)**: Moves part backward (positive Y-axis)
- :**Up (↑)**: Moves part upward (positive Z-axis)
- :**Down (↓)**: Moves part downward (negative Z-axis)
-* **Usage**: Select a part and click the desired direction button to move it precisely.
+* **What it does**: 
+ :**If enabled**: LODs will be generated for all selected objects.
+ :**If disabled**: only the active (last selected) object will be processed.
+* **When to use**: 
+ :**✔**: Batch-generate LODs for multiple assets at once.
+ :**✔**: Focus on a single high-priority model.
 
 Rotate Part
 ******
