@@ -1,9 +1,9 @@
-Modular Suburban House Creator
+SwiftLOD - Level Of Detail Creator
 =============
 
 .. image:: images/SWIFTLOD_Thumbnail.png
    :width: 600
-   :alt: Modular Suburban House Creator
+   :alt: SwiftLOD - Level Of Detail Creator
 
 **SwiftLOD** is a one-click LOD creation addon for Blender, featuring an easy-to-use Preset System. Save time by automatically generating LODs for your models and exporting them directly to Unity and Unreal.
 
