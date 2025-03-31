@@ -93,7 +93,7 @@ Unreal Export (Button)
  * UE4/UE5 projects
 * **CAUTION!**:
  * Unreal Engine *requires* manual LOD setup after import:
- 1. **Import Base Mesh**: Import only ``ObjectName_LOD0.fbx`` normally
+ 1. **Import Base Mesh**: Import only ``ObjectName.fbx`` normally
  2. **Add Additional LODs**: 
      * Open the mesh → Go to LOD Settings
      * For each LOD level:
