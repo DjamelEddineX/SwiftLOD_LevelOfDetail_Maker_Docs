@@ -91,6 +91,21 @@ Unreal Export (Button)
  * Automatically detects LOD sequence on import
 * **Recommended for**:
  * UE4/UE5 projects
+* **CAUTION!**:
+ * Unreal Engine *requires* manual LOD setup after import:
+ 1. **Import Base Mesh**: Import only ``ObjectName_LOD0.fbx`` normally
+ 2. **Add Additional LODs**: 
+ * *Open the mesh → Go to LOD Settings
+ * *For each LOD level:
+   * Click "+" next to LOD Group  
+   * Select "Import LOD"
+   * Choose corresponding FBX (e.g., _LOD1.fbx)
+ * *Open the mesh → Go to LOD Settings
+ 3. Configure Transitions
+* *Set screen size thresholds:
+   * LOD0: 1.0    // Full quality
+   * LOD1: 0.3    // Medium quality
+   * LOD2: 0.1    // Low quality
 
 Export Raw LODs (Button)
 ***********************
